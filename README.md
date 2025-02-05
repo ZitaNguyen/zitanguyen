@@ -22,18 +22,14 @@ I have been working as a PHP/Symfony developer for 5 years and continue to learn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 GitHub Stats  
+<!--## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZitaNguyen&show_icons=true&theme=radical)  
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZitaNguyen&theme=onedark)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZitaNguyen&theme=onedark)   -->
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/zitavan)  
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  -->
-
----
-
-🔥 *Let's build something amazing together!* 🚀  
 
 
