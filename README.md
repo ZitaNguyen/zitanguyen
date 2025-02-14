@@ -6,7 +6,7 @@
 I have been working as a PHP/Symfony developer for 5 years and continue to learn different languages and skills.
 
 - 🌱 Currently learning **Python, React and DevOps**
-- 📫 Reach me at **zitaciao@gmail.com**  
+- 📫 Reach me at **zitavan84@gmail.com**  
 <!-- - 🌍 Check out my portfolio: [LinkedIn](https://www.linkedin.com/in/zitavan/)  -->
 
 ## 🛠️ Technologies & Tools  
